@@ -88,6 +88,7 @@ section{
     width: 330px;
     margin: 0 auto;
     border-radius: 5px;
+    color: white;
 }
 .message p{
     font-size: 10px;
