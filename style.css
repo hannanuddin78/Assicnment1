@@ -95,6 +95,7 @@ section{
 }
 .message a{
     text-decoration: none;
+    color: white;
 }
 .fotter_bottom p{
     padding-top: 145px;
